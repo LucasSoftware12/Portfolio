@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "title": "Projects",
+      "value": [
+        {
+          "id": 1,
+          "title": "Learn Local Storage",
+          "projectRoute": "/project/1",
+          "badgeTitle": ["Local Storage"],
+          "initialColor": "#56CCF2",
+          "finalColor": "#2F80ED",
+          "language": "Javascript"
+        },
+        {
+          "id": 2,
+          "title": "To do app",
+          "projectRoute": "#",
+          "badgeTitle": ["Vue"],
+          "initialColor": "#373B44",
+          "finalColor": "#4286f4",
+          "language": "Javascript"
+        },
+        {
+          "id": 3,
+          "title": "Weekly expense",
+          "projectRoute": "#",
+          "badgeTitle": ["React"],
+          "initialColor": "#f12711",
+          "finalColor": "#f5af19",
+          "language": "JavaScript"
+        },
+        {
+          "id": 4,
+          "title": "Cards app",
+          "projectRoute": "#",
+          "badgeTitle": ["Django"],
+          "initialColor": "#11998e",
+          "finalColor": "#38ef7d",
+          "language": "Python"
+        },
+        {
+          "id": 5,
+          "title": "Calculator app",
+          "projectRoute": "#",
+          "badgeTitle": ["Flutter"],
+          "initialColor": "#e1eec3",
+          "finalColor": "#f05053",
+          "language": "Dart"
+        }
+      ],
+      "route": "/projects",
+      "initialColor": "#56CCF2",
+      "finalColor": "#2F80ED",
+      "icon": "GiThorHammer"
+    },
+    {
+      "title": "Coding",
+      "value": [
+        
+        {
+          "title": "HTML",
+          "level": "Advance"
+        },
+        {
+          "title": "Javascript",
+          "level": "Intermediate"
+        },
+        {
+          "title": "CSS",
+          "level": "Intermediate"
+        },
+        {
+          "title": "NodeJs",
+          "level": "Beginner"
+        },
+        {
+          "title": "Flutter",
+          "level": "Beginner"
+        },
+        {
+          "title": "Dart",
+          "level": "Beginner"
+        },
+        {
+          "title": "Python",
+          "level": "Intermediate"
+        },
+        {
+          "title": "MongoDB",
+          "level": "Beginner"
+        },
+        {
+          "title": "ReactJS",
+          "level": "Intermediate"
+        },
+        {
+          "title": "AngularJs",
+          "level": "Beginner"
+        },
+        {
+          "title": "VueJs",
+          "level": "Intermediate"
+        },
+        {
+          "title": "Django",
+          "level": "Intermediate"
+        }
+      ],
+      "route": "/languages",
+      "initialColor": "#373B44",
+      "finalColor": "#4286f4",
+      "icon": "DiJavascript1"
+    },
+    {
+      "title": "Hobbies & Interest",
+      "value": [
+        
+        {
+          "title": "Computing",
+          "hobbyIcon": "MdComputer"
+        },
+        
+        {
+          "title": "Networking",
+          "hobbyIcon": "FaNetworkWired"
+        },
+        {
+          "title": "Playing guitar",
+          "hobbyIcon": "FaGuitar"
+        }
+      ],
+      "route": "#",
+      "initialColor": "#f12711",
+      "finalColor": "#f5af19",
+      "icon": "FaGuitar"
+    },
+    {
+      "title": "Education",
+      "value": [
+        {
+          "title": "E.E.T. Nº24 Simón de Iriondo",
+          "duration": "2010 – 2016",
+          "location_city": "Resistencia",
+          "location_state": "Chaco",
+          "location_country": "Av. Vélez Sarsfield 20",
+          "description": " Public and Personal computer technician",
+          "sec_details": "College focused on computing technologies",
+          "color": "#fef54b",
+          "text": "#1d1d1d"
+        },
+        {
+          "title": "Universidad Tecnologica Nacional",
+          "duration": "2018 – 2019",
+          "location_city": "Resistencia",
+          "location_state": "Chaco",
+          "location_country": "French 414",
+          "description": "Specific English - Intensive 1 & 2",
+          "sec_details": "Intermediate level of read, write and speak technical English",
+          "color": "#ffe54a",
+          "text": "#1d1d1d"
+        },
+        {
+          "title": "Educación it",
+          "duration": "2020",
+          "location_city": "Resistencia",
+          "location_state": "Chaco",
+          
+          "description": "Knowledge in prototype paradigm, reusable code, geolocation, json, h5ml api, ajax.",
+          "sec_details": "Javascript Advanced Front-End Developer",
+          "color": "#ffd448",
+          "text": "#1d1d1d"
+        },
+        {
+          "title": "Informatorio",
+          "duration": "2020",
+          "location_city": "Resistencia",
+          "location_state": "Chaco",
+          
+          "description": "Javascript Advanced Front-End Developer",
+          "sec_details": "Knowledge in javascript, python, versioning, web architecture, mvt patterns, django and databases.",
+          "color": "#ffc446",
+          "text": "#1d1d1d"
+        },
+        {
+          "title": "UTN Facultad Regional Buenos Aires",
+          "duration": "2020",
+          "location_city": "",
+          "location_state": "",
+          
+          "description": "Professional Full-Stack Developer (in course)",
+          "sec_details": "Create web applications using React JS and Angular frameworks and integrate databases with Node JS.",
+          "color": "#ffc446",
+          "text": "#1d1d1d"
+        },
+        {
+          "title": "Acámica",
+          "duration": "2020",
+          "location_city": "",
+          "location_state": "",
+          
+          "description": "Frontend",
+          "sec_details": "Knowledge in Responsive Design, Introduction to React, Introduction to developing web applications, Programming basics, Node js, html the popular language, git.",
+          "color": "#ffc446",
+          "text": "#1d1d1d"
+        }
+      ],
+      "route": "#",
+      "initialColor": "#007991",
+      "finalColor": "#78ffd6",
+      "icon": "GiBookshelf"
+    },
+    {
+      "title": "Contact",
+      "value": [
+        {
+          "title": "instagram",
+          "link": ""
+        },
+        {
+          "title": "linkedin",
+          "link": ""
+        },
+        {
+          "title": "github",
+          "link": ""
+        },
+        {
+          "title": "instagram",
+          "link": ""
+        }
+      ],
+      "route": "#",
+      "initialColor": "#11998e",
+      "finalColor": "#38ef7d",
+      "icon": "TiSocialAtCircular"
+    },
+    {
+      "title": "Work Experience",
+      "value": [
+        {
+          "title": "Devactory Software House",
+          "description": "Software developtment",
+          "duration": "2020 - Actually - Remote",
+          "location": "Resistencia, Chaco, Argentina"
+        }
+        
+      ],
+      "route": "#",
+      "initialColor": "#e1eec3",
+      "finalColor": "#f05053",
+      "icon": "GoRepo"
+    }
+  ]
+}
