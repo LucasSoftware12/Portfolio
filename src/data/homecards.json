@@ -4,13 +4,13 @@
       "title": "Projects",
       "value": [
         {
-          "id": 1,
-          "title": "Learn Local Storage",
-          "projectRoute": "https://github.com/LucasSoftware12/Local-Storage-desde-un-Textarea",
-          "badgeTitle": ["Local Storage"],
+          "id": 11,
+          "title": "Cards App",
+          "projectRoute": "https://github.com/LucasSoftware12/PostIT",
+          "badgeTitle": ["Django"],
           "initialColor": "#56CCF2",
           "finalColor": "#2F80ED",
-          "language": "Javascript"
+          "language": "Python"
         },
         {
           "id": 2,
@@ -101,6 +101,14 @@
           "initialColor": "#f12711",
           "finalColor": "#f5af19",
           "language": "Dart"
+        },
+        {"id": 12,
+          "title": "Learn Local Storage",
+          "projectRoute": "https://github.com/LucasSoftware12/Local-Storage-desde-un-Textarea",
+          "badgeTitle": ["Local Storage"],
+          "initialColor": "#56CCF2",
+          "finalColor": "#2F80ED",
+          "language": "Javascript"
         }
       ],
       "route": "/projects",

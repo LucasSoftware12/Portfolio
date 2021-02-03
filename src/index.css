@@ -280,6 +280,7 @@ a.projectLink {
   font-weight: 800;
   font-size: 400%;
   display: inline;
+  padding-left: 2%;
 }
 
 .RightUpperSecContent p {
