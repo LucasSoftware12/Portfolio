@@ -12,13 +12,13 @@ function setModal(value, valObj) {
     return <ProjectList ProjectListVal={valObj} />;
   } else if (value === "Coding") {
     return <CodeList CodeListVal={valObj} />;
-  } else if (value === "Hobbies & Interest") {
+  } else if (value === "Hobbies") {
     return <Hobby HobbyListVal={valObj} />;
   } else if (value === "Education") {
     return <Education EducationObj={valObj} />;
   } else if (value === "Contact") {
     return <SocialModal SocialModalObj={valObj} />;
-  } else if (value === "Work Experience") {
+  } else if (value === "Experience") {
     return <WorkExp WorkExpObj={valObj} />;
   }
 }

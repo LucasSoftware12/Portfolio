@@ -47,10 +47,16 @@ function Navigation() {
                 <FaDownload fill="rgba(0,0,0,0.5)" />
               </Button>
             </Nav.Link>
-            <Nav.Link href="https://github.com/LucasSoftware12">
+            <Nav.Link
+            href="https://github.com/LucasSoftware12"
+            rel="noopener noreferrer"
+            target="_blank">
               <FaGithub color="rgba(255,255,255,0.8)" size="1.5em" />
             </Nav.Link>
-            <Nav.Link href="https://www.linkedin.com/in/lucas-softw/">
+            <Nav.Link 
+            href="https://www.linkedin.com/in/lucas-softw/"
+            rel="noopener noreferrer"
+            target="_blank">
               <FaLinkedin color="rgba(255,255,255,0.8)" size="1.5em" />
             </Nav.Link>
           </Nav>

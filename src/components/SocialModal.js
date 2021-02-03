@@ -8,26 +8,31 @@ const Social = styled.div`
   flex-direction: column;
   min-height: 50vh;
   padding: 5px;
+  
 `;
 
 const SocialIcons = styled.div`
   display: flex;
   width: 100%;
+  
 `;
 
 const CustomLink = styled.a`
   display: block;
   color: inherit;
+  
   text-decoration: none;
   &:hover {
     color: inherit;
     text-decoration: none;
+    
   }
 `;
 
 const Icon = styled.div`
   flex: 1;
   text-align: center;
+  
   margin-bottom: 20px;
   padding: 20px;
   background-color: #ebf2fa;
@@ -54,6 +59,7 @@ const Icon = styled.div`
 
 const ButtonForm = styled.div`
   margin-top: 15px;
+  
 `;
 
 function SocialModal() {
@@ -61,24 +67,28 @@ function SocialModal() {
     <Social>
       <Container>
         <SocialIcons>
-          <Icon label="github">
-            <AiOutlineGithub size={35} />
+          
             <CustomLink 
             href="https://github.com/LucasSoftware12/"
             target="_blank"
             >
+              <Icon label="github">
+              <AiOutlineGithub size={35}/>
               @LucasSoftware12
+              </Icon>
             </CustomLink>
-          </Icon>
-          <Icon label="linkedin">
-            <AiOutlineLinkedin size={35} />
+          
+          
             <CustomLink
               href="https://www.linkedin.com/in/lucas-softw/"
               target="_blank"
             >
+              <Icon label="linkedin">
+            <AiOutlineLinkedin size={35} />
               @lucas-softw
+              </Icon>
             </CustomLink>
-          </Icon>
+          
           
         </SocialIcons>
 
