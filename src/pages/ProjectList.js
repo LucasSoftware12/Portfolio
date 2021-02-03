@@ -1,19 +1,21 @@
 import React from "react";
 import { Badge } from "react-bootstrap";
-import { useHistory } from "react-router-dom";
 
 function ProjectList({ ProjectListVal }) {
-  const history = useHistory();
+  
 
   return (
     <div>
       {ProjectListVal &&
         ProjectListVal.map((Obj, index) => {
           return (
-            <span
+            <a
               key={`project-list-item-${index}`}
               className="project_list_item_link"
-              onClick={() => Obj?.id && history.push(`/project/${Obj.id}`)}
+              /* onClick={() => Obj?.projectRoute && history.push(`${Obj.projectRoute}`)} */
+              href={Obj.projectRoute}
+              rel="noopener noreferrer"
+              target="_blank"
             >
               <div
                 style={{
@@ -38,7 +40,7 @@ function ProjectList({ ProjectListVal }) {
                 </Badge>
                 <p>{Obj.title}</p>
               </div>
-            </span>
+            </a>
           );
         })}
     </div>

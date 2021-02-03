@@ -6,7 +6,7 @@
         {
           "id": 1,
           "title": "Learn Local Storage",
-          "projectRoute": "/project/1",
+          "projectRoute": "https://github.com/LucasSoftware12/Local-Storage-desde-un-Textarea",
           "badgeTitle": ["Local Storage"],
           "initialColor": "#56CCF2",
           "finalColor": "#2F80ED",
@@ -15,7 +15,7 @@
         {
           "id": 2,
           "title": "To do app",
-          "projectRoute": "#",
+          "projectRoute": "https://github.com/LucasSoftware12/QuasarTodoApp",
           "badgeTitle": ["Vue"],
           "initialColor": "#373B44",
           "finalColor": "#4286f4",
@@ -23,26 +23,80 @@
         },
         {
           "id": 3,
-          "title": "Weekly expense",
-          "projectRoute": "#",
-          "badgeTitle": ["React"],
+          "title": "shopping cart",
+          "projectRoute": "https://github.com/LucasSoftware12/CarritoCompras",
+          "badgeTitle": ["HTMl-CSS-JS"],
           "initialColor": "#f12711",
           "finalColor": "#f5af19",
           "language": "JavaScript"
         },
         {
           "id": 4,
-          "title": "Cards app",
-          "projectRoute": "#",
-          "badgeTitle": ["Django"],
+          "title": "Email",
+          "projectRoute": "https://github.com/LucasSoftware12/SimularEnvioEmail",
+          "badgeTitle": ["HTMl-CSS-JS"],
           "initialColor": "#11998e",
           "finalColor": "#38ef7d",
-          "language": "Python"
+          "language": "Javascript"
         },
         {
           "id": 5,
-          "title": "Calculator app",
-          "projectRoute": "#",
+          "title": "Quote insurance",
+          "projectRoute": "https://github.com/LucasSoftware12/cotizaSeguro",
+          "badgeTitle": ["HTMl-CSS-JS"],
+          "initialColor": "#e1eec3",
+          "finalColor": "#f05053",
+          "language": "Javascript"
+        },
+        {
+          "id": 6,
+          "title": "Contacts",
+          "projectRoute": "https://github.com/LucasSoftware12/AppWebContactos",
+          "badgeTitle": ["Flask"],
+          "initialColor": "#e1eec3",
+          "finalColor": "#f05053",
+          "language": "Python"
+        },
+        {
+          "id": 7,
+          "title": "Money loans",
+          "projectRoute": "https://github.com/LucasSoftware12/PrestamosReact",
+          "badgeTitle": ["React"],
+          "initialColor": "#e1eec3",
+          "finalColor": "#f05053",
+          "language": "Javascript"
+        },
+        {
+          "id": 8,
+          "title": "Weekly expense",
+          "projectRoute": "https://github.com/LucasSoftware12/gastoSemanal",
+          "badgeTitle": ["HTMl-CSS-JS"],
+          "initialColor": "#e1eec3",
+          "finalColor": "#f05053",
+          "language": "Javascript"
+        },
+        {
+          "id": 9,
+          "title": "Ajax & Json",
+          "projectRoute": "https://github.com/LucasSoftware12/AjaxJsonAPI",
+          "badgeTitle": ["HTMl-CSS-JS"],
+          "initialColor": "#e1eec3",
+          "finalColor": "#f05053",
+          "language": "Javascript"
+        },
+        {
+          "id": 10,
+          "title": "Calculator",
+          "projectRoute": "https://github.com/LucasSoftware12/CalculadoraJs",
+          "badgeTitle": ["HTMl-CSS-JS"],
+          "initialColor": "#e1eec3",
+          "finalColor": "#f05053",
+          "language": "Javascript"
+        },
+        {
+          "id": 11,
+          "title": "Calculator",
+          "projectRoute": "https://github.com/LucasSoftware12/Flutter_Calc",
           "badgeTitle": ["Flutter"],
           "initialColor": "#e1eec3",
           "finalColor": "#f05053",
@@ -240,7 +294,7 @@
       "value": [
         {
           "title": "Devactory Software House",
-          "description": "Software development",
+          "description": "Software developtment",
           "duration": "2020 - Actually - Remote",
           "location": "Resistencia, Chaco, Argentina"
         }
