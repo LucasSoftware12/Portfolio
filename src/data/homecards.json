@@ -309,8 +309,14 @@
         {
           "title": "Devactory Software House",
           "description": "Software development",
-          "duration": "2020 - Actually - Remote",
+          "duration": "2020 - 2021 - Remote",
           "location": "Resistencia, Chaco, Argentina"
+        },
+        {
+          "title": "Grupo Logictracker",
+          "description": "Software development",
+          "duration": "2021 - Actually - Remote",
+          "location": "Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina"
         }
         
       ],
