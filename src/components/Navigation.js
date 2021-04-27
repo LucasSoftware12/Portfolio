@@ -25,7 +25,7 @@ function Navigation() {
                 }}
                 onClick={(e) => {
                   e.preventDefault();
-                  window.location.href='https://drive.google.com/file/d/1fI_KNkmisRlKAlnkojQgBIqyl4mqgMB6/view?usp=sharing'
+                  window.location.href='https://drive.google.com/file/d/13ahuVEZhGIKxiaRX-NrFMAbNG5Noss2j/view?usp=sharing'
                   ;
                 }}
               >
@@ -33,14 +33,14 @@ function Navigation() {
               </Button>
               <Button
                 variant="light"
-                href="https://drive.google.com/u/0/uc?id=1fI_KNkmisRlKAlnkojQgBIqyl4mqgMB6&export=download"
+                href="https://drive.google.com/u/0/uc?id=13ahuVEZhGIKxiaRX-NrFMAbNG5Noss2j&export=download"
                 style={{
                   borderRadius: "0 4px 4px 0",
                 
                 }}
                 onClick={(e) => {
                   e.preventDefault();
-                  window.location.href='https://drive.google.com/u/0/uc?id=1fI_KNkmisRlKAlnkojQgBIqyl4mqgMB6&export=download'
+                  window.location.href='https://drive.google.com/u/0/uc?id=13ahuVEZhGIKxiaRX-NrFMAbNG5Noss2j&export=download'
                   ;
                 }}
               >
